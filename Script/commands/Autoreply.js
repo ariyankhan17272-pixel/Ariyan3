@@ -310,6 +310,7 @@ const responseGroups = [
   [["বট সুন্দর"], "ধন্যবাদ 😇 𝐁𝐨𝐭-এর 𝐒𝐞𝐥𝐟-𝐂𝐨𝐧𝐟𝐢𝐝𝐞𝐧𝐜𝐞 বেড়ে গেল 🤣"],
     };
 
+
   if (!responses[msg]) return;
 
   if (!global.client.handleReply) global.client.handleReply = [];
