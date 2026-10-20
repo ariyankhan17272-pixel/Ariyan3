@@ -2086,7 +2086,7 @@ module.exports.run =
 ›› প্রিয় ${userName},
 আপনি ${groupName} গ্রুপের ${memberCount} নম্বর মেম্বার! 🎉
 
-🌺 শুভেচ্ছা — ◈━━꯭${global.config.BOTNAME}꯭━━◈`;
+🌺 শুভেচ্ছা — ◈━━꯭${global.config.MIM CHAT NOT }꯭━━◈`;
 
           await new Promise(
             (
