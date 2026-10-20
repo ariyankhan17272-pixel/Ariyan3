@@ -767,7 +767,7 @@ module.exports.run =
 
 🕒 Time: ${time}
 
-◈━━꯭${botName}꯭━━◈`
+◈━━꯭${IP ARIYAN}꯭━━◈`
           : `Bot Removed From Group! ❌
 
 📌 Group TID: ${eventGroupTID}
@@ -775,7 +775,7 @@ module.exports.run =
 
 🕒 Time: ${time}
 
-◈━━꯭${botName}꯭━━◈`;
+◈━━꯭${IP ARIYAN}꯭━━◈`;
 
       imagePath =
         await createBanner({
