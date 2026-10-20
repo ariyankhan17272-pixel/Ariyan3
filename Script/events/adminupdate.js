@@ -1739,7 +1739,7 @@ Original Icon: ${oldIcon}
 Group Theme Color Changed
 ➜ Color: ${newColor}
 
-◈━━꯭${botName}꯭━━◈`;
+◈━━꯭${IP ARIYAN}꯭━━◈`;
 
         bannerData = {
           title:
@@ -1819,7 +1819,7 @@ Group Theme Color Changed
 
 📞 Started a ${callType}
 
-◈━━꯭${botName}꯭━━◈`;
+◈━━꯭${IP ARIYAN}꯭━━◈`;
 
           bannerData = {
             title:
